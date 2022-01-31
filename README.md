@@ -31,8 +31,9 @@ Basically it didn't affected the ranking. Although there was a change, it did't 
 
 ### * How does replacing the ninth-grade scores affect the following:
 ### * Math and reading scores by grade
-Everything stays the same, except that the 9th graders doesn't have a score.
 
+<img width="222" alt="graders" src="https://user-images.githubusercontent.com/31755703/151747542-d5ff61f6-f0ec-426c-9803-88427a00a0e0.png">
+Everything stays the same, except that the 9th graders doesn't have a score.
 ### * Scores by school spending
 <img width="390" alt="Comparison spending ranges" src="https://user-images.githubusercontent.com/31755703/151745223-f40809d7-e261-4d2b-bc07-ea8817b54926.png">
 It only affects the bracket to which Thomas High School belongs to
@@ -60,4 +61,5 @@ It is really important to quantify the impact of a change like the one we did so
 | Scores by school size |
 | Scores by school type |
 
-
+It is also important to note that dishonesty at any level can affect decision making, even if the origin of data may be reliable there's always room for human manipulation.
+As Data analysts we must be aware of this situations and be critical on how to face them.
