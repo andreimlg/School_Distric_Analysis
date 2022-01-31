@@ -22,6 +22,7 @@ Total number of "Thomas High School" Students did not impacted too much on the d
 
 ### * How is the school summary affected?
 The new data shows that the performance of Thomas High School wasn't has high as before the change.
+
 <img width="241" alt="Comparison2" src="https://user-images.githubusercontent.com/31755703/151744960-c3988c8b-bf24-4206-b6fd-5896f47d8bd9.png">
 
 
